@@ -1,20 +1,20 @@
+Release history for Perl module Jabber::SimpleSend
 
-0.03	Sat Aug  9 20:18:44 BST 2008
+0.03 2008-08-09
 
-	Removed failing tests properly this time.
+ - Removed failing tests properly this time.
+     n.b. CPAN tester emails sent to HiveMinder is truly
+     a great way to pester you to do something.
+ - I'll have another look at this soon and check it really
+   does still work and go through any patches outstanding.
 
-	n.b. CPAN tester emails sent to HiveMinder is truly a great way to pester you
-	to do something.
+0.02 2006-08-19
 
-	I'll have another look at this soon and check it really does still work and go
-	through any patches outstanding.
+ - Removed failing test (i'm not supplying the cgi it called to at the moment).
+ - Updated email address.
+ - Added licensing details.
+ - Added this file.
 
-0.02	Sat Aug 19 05:41:09 BST 2006
+0.01 2002-11-22
 
-	Removed failing test (i'm not supplying the cgi it called to at the moment).
-	Updated email address.
-	Added licensing details.
-	Added this file.
-
-
-
+ - initial CPAN release
